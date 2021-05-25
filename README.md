@@ -3,7 +3,7 @@
 
 Calculator application. Do some simple calculations.
 
-## Screen
+## Preview
 
 <p align="center">
    <img src="./preview/preview.jpg" width="200">
@@ -40,18 +40,18 @@ You must have installed Flutter and Dart on your machine. For this, see the inst
 
 ---
 
-<h2 align="center">Como Contribuir 💪</h2>
+<h2 align="center"> How to contribute 💪</h2>
 
    ```
-   - Fork o projeto 
+   - Fork the project 
 
-   - Cria uma nova branch com suas mudanças:
+   - Create a new branch with your changes:
    $ git checkout -b my-feature
 
-   - Salve suas mudanças e crie uma mensagem de commit falando o que fez:
+   - Save your changes and create a commit message saying what you did:
    $ git commit -m "feature: My new feature"
 
-   - Envie suas mudanças:
+   - Submit your changes:
    $ git push origin my-feature
    ```
 
@@ -59,4 +59,4 @@ You must have installed Flutter and Dart on your machine. For this, see the inst
 ---
 
 
-Feito com :heart: por [Firmino Neto](https://github.com/firminoazevedo) 🚀
+Made with :heart: by [Firmino Neto](https://github.com/firminoazevedo) 🚀
